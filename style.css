@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("https://lh5.googleusercontent.com/E9Bm1p61-bOwa9rFG7m-Zb112bVLg3phB_Fp8dcpu952AtaiC6VAJuQGpakrMs1kGeqIp9vgCTwW5Gx_aW5p=w1280-h689-rw") ;
+    background-position: center;
+    background-size: cover;
+}
+#MINECRAFTCreeper
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
